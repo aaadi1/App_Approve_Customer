@@ -5,6 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Text text= "I am View1" />
+						<Text text= "I am also from View1" />
 					</content>
 				</Page>
 			</pages>
